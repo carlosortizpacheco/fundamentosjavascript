@@ -1,0 +1,19 @@
+{
+  "name": "cursofundamentosjavascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "clase1":"node POOJavascript/clase_1.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosortizpacheco/fundamentosjavascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosortizpacheco/fundamentosjavascript/issues"
+  },
+  "homepage": "https://github.com/carlosortizpacheco/fundamentosjavascript#readme"
+}
