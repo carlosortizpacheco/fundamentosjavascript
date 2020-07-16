@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "clase1":"node POOJavascript/clase_1.js "
+    "clase1":"node POOJavascript/clase21-Prototipos.js",
+    "clase25":"node POOJavascript/clase25-Clases.js"
   },
   "repository": {
     "type": "git",
